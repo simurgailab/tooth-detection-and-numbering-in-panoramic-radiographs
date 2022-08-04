@@ -1,1 +1,1 @@
-# tooth-detection-and-numbering-in-panoramic-radiographs
+# Tooth Detection and Numbering with Instance Segmentation in Panoramic Radiographs
