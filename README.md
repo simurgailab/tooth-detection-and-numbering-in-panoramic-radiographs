@@ -5,15 +5,22 @@ Deep neural networks have recently been used for detection and classification in
 # Model
 
 <figure>
-<img src="images/model.png" alt="Trulli" style="width:100%">
+<p align="center">
+    <img src="images/model.png">
+</p>
 <figcaption align = "center"><b>System architecture and model pipeline workflow.</b></figcaption>
 </figure>
-
 
 
 # Results
 
 
+<figure>
+<p align="center">
+    <img src="images/ResNet50vsResNet101.png" >
+</p>
+<figcaption align = "center"><b>Average precision results of ResNet50 and ResNet101 on each test images. </b></figcaption>
+</figure>
 
 # Citation
 If you use this research paper, please cite:
