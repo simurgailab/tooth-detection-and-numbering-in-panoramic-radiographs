@@ -1,5 +1,9 @@
 # Tooth Detection and Numbering with Instance Segmentation in Panoramic Radiographs
+
 # Citation
+If you use this research, please cite:
+
+B.Y. Tekin, C. Ozcan, A. Pekince, Y. Yasa, A. Karaoglu, S. Cilek, D. Ozdemir, E. Meseci, Tooth Detection and Numbering with Instance Segmentation in Panoramic Radiographs, International Conference on Interdisciplinary Applications of Artificial Intelligence (ICIDAAI), 1st, Online, 21-23 May, 2021.
 
 ```
 @inproceedings{tekin2021conference,
