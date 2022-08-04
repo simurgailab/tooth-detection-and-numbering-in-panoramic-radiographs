@@ -2,6 +2,9 @@
 
 # Model
 
+<p align="center">
+  <img src="images/model.png" />
+</p>
 
 # Citation
 If you use this research paper, please cite:
