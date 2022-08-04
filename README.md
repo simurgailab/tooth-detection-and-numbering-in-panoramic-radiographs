@@ -6,7 +6,7 @@ Deep neural networks have recently been used for detection and classification in
 
 <figure>
 <p align="center">
-    <img src="images/model.png">
+    <img src="images/Model.png">
 </p>
 <figcaption align = "center"><b>System architecture and model pipeline workflow.</b></figcaption>
 </figure>
