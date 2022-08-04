@@ -22,6 +22,9 @@ Deep neural networks have recently been used for detection and classification in
 <figcaption align="center"><b>Figure 2: Average precision results of ResNet50 and ResNet101 on each test images. </b></figcaption>
 </figure>
 
+If you use this research paper, please cite:
+
+
 # Citation
 If you use this research paper, please cite:
 
