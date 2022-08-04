@@ -8,7 +8,7 @@ Deep neural networks have recently been used for detection and classification in
 <p align="center">
     <img src="images/Model.png">
 </p>
-<figcaption align="center"><b>System architecture and model pipeline workflow.</b></figcaption>
+<figcaption align="center"><b>Figure 1: System architecture and model pipeline workflow.</b></figcaption>
 </figure>
 
 
@@ -19,7 +19,7 @@ Deep neural networks have recently been used for detection and classification in
 <p align="center">
     <img src="images/ResNet50vsResNet101.png" style="height: 434px; width: 727px;">
 </p>
-<figcaption align="center"><b>Average precision results of ResNet50 and ResNet101 on each test images. </b></figcaption>
+<figcaption align="center"><b>Figure 2: Average precision results of ResNet50 and ResNet101 on each test images. </b></figcaption>
 </figure>
 
 # Citation
