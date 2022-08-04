@@ -42,3 +42,5 @@ B.Y. Tekin, C. Ozcan, A. Pekince, Y. Yasa, A. Karaoglu, S. Cilek, D. Ozdemir, E.
 ```
 
 # Request Full Paper
+
+Please click to access the conference paper; https://www.researchgate.net/publication/352226250_Tooth_Detection_and_Numbering_with_Instance_Segmentation_in_Panoramic_Radiographs
