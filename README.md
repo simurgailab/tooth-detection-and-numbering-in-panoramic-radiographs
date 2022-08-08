@@ -16,6 +16,8 @@ The workflow pipeline of the model architecture is shown in Figure 1.
 
 
 
+In this study, the average precision values ​​produced on each validation image of the ResNet-50 and ResNet-101 architectures used as backbone networks are compared as seen in Figure 2.
+
 <figure>
 
 <p align="center">
